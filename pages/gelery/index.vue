@@ -9,16 +9,16 @@
     <hr> 
     <div class="row justify-content-center">
       <div class="card m-5" style="width: 20rem;">
-            <img src="../../assets/MPLS1.JPG" class="card-img-top" alt="img">
+            <img src="../../assets/download.jpeg" class="card-img-top" alt="img">
         </div>
       <div class="card m-5" style="width: 20rem;">
-            <img src="../../assets/MPLS2.JPG" class="card-img-top" alt="img">
+            <img src="../../assets/download1.jpeg" class="card-img-top" alt="img">
         </div>
       <div class="card m-5" style="width: 20rem;">
-            <img src="../../assets/MPLS3.JPG" class="card-img-top" alt="img">
+            <img src="../../assets/download2.jpeg" class="card-img-top" alt="img">
         </div>
       <div class="card m-5" style="width: 20rem;">
-            <img src="../../assets/MPLS4.JPG" class="card-img-top" alt="img">
+            <img src="../../assets/download3.jpeg" class="card-img-top" alt="img">
         </div>
     </div>
   </div>
